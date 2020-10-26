@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Andrew
 #### I'm a self-taught programmer
-![I'm a self-taught programmer](https://github.com/realandrew/realandrew/images/github_profile_banner.png)
+![I'm a self-taught programmer](https://github.com/realandrew/realandrew/blob/master/images/github_profile_banner.png)
 
 I aspire to run my own software company one day. I'm currently in the bachelor's of computer science program at Wright State University.
 
