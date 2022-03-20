@@ -2,7 +2,9 @@
 #### I'm a self-taught programmer
 ![I'm a self-taught programmer](https://github.com/realandrew/realandrew/blob/master/images/github_profile_banner.png)
 
-I aspire to run my own software company one day. I'm currently in the bachelor's of computer science program at Wright State University.
+I aspire to run my own software company one day. I'm currently in the computer science program at Wright State University.
+
+Many of my repositories are private and are split between GitHub and GitLab, but this is my primary location for my open source repositories.
 
 Skills: HTML, CSS, JavaScript (ES6 & NodeJS), TypeScript C#, C++, Rust, and others
 
